@@ -7,3 +7,9 @@ Day 2 - Multiple linear regression in python using sklearn. Concept of backward 
 Day 3 - Polynomial regression in python using sklearn. Concept of imputation of missing data, label encoding, one hot encoding and feature scaling.  
 Day 4 - SVR and Decision Tree regression in python using sklearn.  
 Day 5 - Random forest regression, classification modelling with Logistic Regression, KNN, SVM in python using sklearn. Using confusion matrix for model evaluation.  
+Day 6 - started with the prerequisites for the course “Machine Learning crash course with Tensorflow APIs” by Google  
+a). Quick introduction to pandas  
+b). Tensorflow programming concepts (tensors, operations, graphs, sessions)  
+Got familiar with jupyter notebook and created a tensorflow program to add numbers (source code uploaded in the github repository)    
+
+
