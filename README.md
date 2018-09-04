@@ -11,5 +11,6 @@ Day 6 - started with the prerequisites for the course “Machine Learning crash 
 a). Quick introduction to pandas  
 b). Tensorflow programming concepts (tensors, operations, graphs, sessions)  
 Got familiar with jupyter notebook and created a tensorflow program to add numbers (source code uploaded in the github repository)    
-
+Day 7 - Naive Bayes, decision tree and random forest classification using sklearn in python. 
+Creating and Manipulating Tensors (tensor shapes, matrix multiplication, reshaping). 
 
