@@ -13,4 +13,4 @@ b). Tensorflow programming concepts (tensors, operations, graphs, sessions)
 Got familiar with jupyter notebook and created a tensorflow program to add numbers (source code uploaded in the github repository)    
 Day 7 - Naive Bayes, decision tree and random forest classification using sklearn in python. 
 Creating and Manipulating Tensors (tensor shapes, matrix multiplication, reshaping). 
-
+Day 8 - Studied NLP and implemented user review prediction model using NLTK in python with Bag of Words model and Naïve Bayes classification  
