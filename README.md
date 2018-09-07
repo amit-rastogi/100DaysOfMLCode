@@ -1,6 +1,6 @@
 100Days of ML code is a pledge to dedicate 1 hour to machine learning everyday. #100DaysOfMLCode @sirajraval  
-100DaysOfMLCode - My progress tracker
--------------------------------------
+Progress tracker
+-----------------
 The below topics are as per the syllabus of the Udemy course - Machine Learning A-Z™: Hands-On Python & R In Data Science.
     
 Day 1 - started with Linear regression in python using sklearn.  
