@@ -19,3 +19,5 @@ Day 9 - Covered the following-
 1.K-means clustering and using the elbow method to choose the right number of clusters using WCSS.  
 2.Association rule learning with Apriori model.  
 Day 10 - Studied k-fold cross validation and Grid search and started learning Keras.  
+Day 11 - Watched the recorded Salt Identification Challenge by @sirajraval. Not much into CNNs yet but learnt many things like using google colab, importing kaggle dataset in colab, UNet. Started on the House Prices: Advanced Regression Techniques on kaggle.   
+Day 12- Submitted the code for the The House Prices: Advanced Regression Techniques problem on Kaggle. Score - 0.14998. Rank-2546. Feeling good!!! Now have to work on improving the score.  
