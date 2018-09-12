@@ -21,3 +21,6 @@ Day 9 - Covered the following-
 Day 10 - Studied k-fold cross validation and Grid search and started learning Keras.  
 Day 11 - Watched the recorded Salt Identification Challenge by @sirajraval. Not much into CNNs yet but learnt many things like using google colab, importing kaggle dataset in colab, UNet. Started on the House Prices: Advanced Regression Techniques on kaggle.   
 Day 12- Submitted the code for the The House Prices: Advanced Regression Techniques problem on Kaggle. Score - 0.14998. Rank-2546. Feeling good!!! Now have to work on improving the score.  
+Day 13- Continued on The House Prices: Advanced Regression Techniques problem on Kaggle. Used  XGBoost and improved the model accuracy. Score - 0.13497. Rank-1826. Moved up 1065 spots on #kaggle. I'm not addicted. I can quit when I want.  
+Day 14-Started on the Move 37 Course. Completed lesson on Bellman equation and Markov decision processes...that was something serious had to take notes to reinforce the learning 😃  
+Day 15-Exploring spacy library @spacy_io for NLP in python. Liked its object oriented model as compared to NLTK and its syntactic dependency visualizer. Sample code uploaded in github.  
