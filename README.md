@@ -24,3 +24,14 @@ Day 12- Submitted the code for the The House Prices: Advanced Regression Techniq
 Day 13- Continued on The House Prices: Advanced Regression Techniques problem on Kaggle. Used  XGBoost and improved the model accuracy. Score - 0.13497. Rank-1826. Moved up 1065 spots on #kaggle. I'm not addicted. I can quit when I want.  
 Day 14-Started on the Move 37 Course. Completed lesson on Bellman equation and Markov decision processes...that was something serious had to take notes to reinforce the learning 😃  
 Day 15-Exploring spacy library @spacy_io for NLP in python. Liked its object oriented model as compared to NLTK and its syntactic dependency visualizer. Sample code uploaded in github.  
+Day 16- Continuing with my NLP stuff studied about sentiment analysis using LSTM.
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/ … is an excellent reference to understanding LSTM and RNN.  
+Day 17 - Concept of ANNs, activation functions, gradient descent, stochastic gradient descent and backpropagation. Quick introduction to Keras for ANN implementation.  
+Day 18 - Implemented an ANN model for regression problem using Keras. Code uploaded in github.  
+Day 19 - Enrolled in http://deeplearning.ai  deep learning specialization course on @coursera. Completed Week 1 of 1st module. Really excited to be taking a course from @AndrewYNg  
+Day 20 - Completed Week 2 of Neural Networks and Deep Learning course from http://deeplearning.ai 
+Started with the Decentralized Applications course from http://theschool.ai  @sirajraval Created my first solidity contract on ethereum blockchain 🙂  
+Day 21 - Started on 3rd week of Neural Networks and Deep Learning course from http://deeplearning.ai 
+Also, continued studying on ethereum and smart contract coding using solidity.  
+Day 22 - Completed 3rd week of Neural Networks and Deep Learning on coursera. Also, wrote a sample solidity smart contract and deployed on ethereum blockchain using Ganache. @sirajraval how about a #100DaysOfBlockchainCode 🤔🤔maybe less than 100 days?    
+
